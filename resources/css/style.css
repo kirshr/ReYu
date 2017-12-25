@@ -1,0 +1,6 @@
+.navbar-default {
+  background:linear-gradient(to right, #ffff, rgba(105,229,48,1));
+}
+#section1 {
+  justify-content: space-between;
+}
